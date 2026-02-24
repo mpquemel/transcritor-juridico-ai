@@ -1,0 +1,22 @@
+# Ambientes Virtuais e Compilação
+venv/
+__pycache__/
+build/
+dist/
+*.spec
+
+# Arquivos de Configuração e Senhas (MUITO IMPORTANTE)
+config.json
+*.env
+
+# Arquivos de Mídia e Documentos Gerados
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.srt
+*.docx
+*.txt
+
+# Executáveis
+*.exe
