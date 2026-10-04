@@ -17,6 +17,7 @@ config.json
 *.srt
 *.docx
 *.txt
+!requirements.txt
 
 # Executáveis
 *.exe
